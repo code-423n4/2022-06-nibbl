@@ -57,3 +57,29 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
+
+Nibbl fractionalization protocol that creates ERC20 tokens representing ownership of ERC721 or ERC1155. Uses a **Bonding curve** to facilitate buying and selling of tokens. The protocol also implements a valuation-based buyout mechanism so that the asset isn’t locked in a contract/vault forever. A user can initiate a buyout and they need to pay an upfront cost for that. The cost is decided based on the current valuation of tokens. If the valuation goes above a certain level within a predefined duration the buyout is rejected. Therefore, the community can buy more tokens in order to reject a buyout. If the buyout isn’t rejected it is automatically considered successful and the user who initiated the buyout can withdraw the asset.
+
+Code Repository: https://github.com/NibblNFT/nibbl-code4arena-june-2022
+- Docs in Readme
+
+
+# Contracts in Scope
+| File | LoC | External Calls | Description |
+| --- | --- | --- | --- |
+| NibblVaultFactory.sol | 70 | 0 | Vault Factory that deploys vault and handles governance and access control. |
+| NibblVault.sol | 290 | 0 | Vault which holds NFT and has logic for trading and buyout |
+| Twav.sol | 25 | 0 | Implements time-weighted valuation to be consumed in NibblVault for buyouts |
+| ProxyVault.sol | 17 | 0 | Proxy contract that gets deployed with implementation as NibblVault |
+| ProxyBasket.sol | 17 | 0 | Proxy contract that gets deployed with implementation as Basket |
+| AccessControlMechanism.sol | 19 | 0 | Inherited in NibblVaultFactory for access control on certain actions |
+| EIP712Base.sol | 21 | 0 | To implement permit functionality with EIP712 signing. |
+
+
+# Out of scope
+1. Admin can pause and change certain parameters of the contract.
+
+# Areas of concern
+1. Trade Accounting
+2. Upgradablity
+3. Buyout and TWAV
