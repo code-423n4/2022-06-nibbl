@@ -68,7 +68,7 @@ The protocol also implements a valuation-based buyout mechanism so that the ERC7
 
 Code Repository: https://github.com/NibblNFT/nibbl-code4arena-june-2022
 
-Documentation: https://github.com/code-423n4/2022-06-nibbl/blob/main/README.md
+Documentation: https://github.com/NibblNFT/nibbl-code4arena-june-2022/blob/master/README.md
 
 Code and Architecture Walkthrough: https://youtu.be/dJFOgo58qVg
 
