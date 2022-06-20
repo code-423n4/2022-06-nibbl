@@ -84,7 +84,9 @@ Product Beta: http://beta.nibbl.xyz/
 
 
 # Out of scope
+
 1. Admin can pause and change certain parameters of the contract.
+2. BancorFormula.sol: Implementation of Bancor Formula.
 
 # Areas of concern
 1. Trade Accounting
@@ -102,3 +104,6 @@ Product Beta: http://beta.nibbl.xyz/
   - Possible manipulation scenarios with TWAV array
   - Potential issue with minimum buyout time as that is recently added feature
   - Only successful bidder should be able to withdraw NFT
+
+# Previous Audit
+1. https://github.com/NibblNFT/nibbl-code4arena-june-2022/tree/master/Previous%20Audits
