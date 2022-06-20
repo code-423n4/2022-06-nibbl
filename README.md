@@ -63,7 +63,6 @@ Nibbl uses a Bonding curve to facilitate trading of the ERC20 tokens.
 The protocol also implements a valuation-based buyout mechanism so that the ERC721 isn’t locked in a contract/vault forever. A user can initiate a buyout and they need to pay an upfront cost for that. The cost is decided based on the current valuation of tokens. If the valuation goes above a certain level within a predefined duration the buyout is rejected. Therefore, the community can buy more tokens in order to reject a buyout. If the buyout isn’t rejected it is automatically considered successful and the user who initiated the buyout can withdraw the asset.
 
 # Important Links
-App: http://beta.nibbl.xyz/
 
 Code Repository: https://github.com/NibblNFT/nibbl-code4arena-june-2022
 
@@ -71,6 +70,7 @@ Documentation: https://github.com/code-423n4/2022-06-nibbl/blob/main/README.md
 
 Code and Architecture Walkthrough: https://www.youtube.com/watch?v=dJFOgo58qVg
 
+Product Beta: http://beta.nibbl.xyz/
 # Contracts in Scope
 | File | LoC | External Calls | Description |
 | --- | --- | --- | --- |
