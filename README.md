@@ -60,9 +60,10 @@ This repo will be made public before the start of the contest. (C4 delete this l
 
 Nibbl fractionalization protocol that creates ERC20 tokens representing ownership of ERC721 or ERC1155. Uses a **Bonding curve** to facilitate buying and selling of tokens. The protocol also implements a valuation-based buyout mechanism so that the asset isn’t locked in a contract/vault forever. A user can initiate a buyout and they need to pay an upfront cost for that. The cost is decided based on the current valuation of tokens. If the valuation goes above a certain level within a predefined duration the buyout is rejected. Therefore, the community can buy more tokens in order to reject a buyout. If the buyout isn’t rejected it is automatically considered successful and the user who initiated the buyout can withdraw the asset.
 
+# Important Links
+app: http://beta.nibbl.xyz/
 Code Repository: https://github.com/NibblNFT/nibbl-code4arena-june-2022
-- Docs in Readme
-
+Documentation: https://github.com/code-423n4/2022-06-nibbl/blob/main/README.md
 
 # Contracts in Scope
 | File | LoC | External Calls | Description |
@@ -81,5 +82,17 @@ Code Repository: https://github.com/NibblNFT/nibbl-code4arena-june-2022
 
 # Areas of concern
 1. Trade Accounting
-2. Upgradablity
-3. Buyout and TWAV
+  - The secondary and primary reserve balances (including fictitious primary reserve balance) should update correctly in all 3 trade scenarios - trade in primary curve, trade in secondary curve, trade in both primary and secondary curve.
+  - Admin fee, curator fee and curve fee should update correctly.
+
+2. Upgradablity, pausability and access control
+
+3. TWAV
+  - Values get updated and computed correctly
+
+4. Buyout
+  - Game theoretical issues in the buyout game
+  - Accounting issues while initiating buyout and token redemption
+  - Possible manipulation scenarios with TWAV array
+  - Potential issue with minimum buyout time as that is recently added feature
+  - Only successful bidder should be able to withdraw NFT
