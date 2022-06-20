@@ -78,6 +78,7 @@ Product Beta: http://beta.nibbl.xyz/
 | --- | --- | --- | --- |
 | NibblVaultFactory.sol | 70 | 0 | Vault Factory that deploys vault and handles governance and access control. |
 | NibblVault.sol | 290 | 0 | Vault which holds NFT and has logic for trading and buyout |
+| Basket.sol | 80 | 0 | Basket that can be used to fractionalize multiple NFTs. |
 | Twav.sol | 25 | 0 | Implements time-weighted valuation to be consumed in NibblVault for buyouts |
 | ProxyVault.sol | 17 | 0 | Proxy contract that gets deployed with implementation as NibblVault |
 | ProxyBasket.sol | 17 | 0 | Proxy contract that gets deployed with implementation as Basket |
