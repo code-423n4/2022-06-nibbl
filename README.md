@@ -16,13 +16,20 @@ The protocol also implements a valuation-based buyout mechanism so that the ERC7
 
 # Important Links
 
-Code Repository: https://github.com/NibblNFT/nibbl-code4arena-june-2022
+Code Repository: https://github.com/NibblNFT/nibbl-smartcontracts
 
-Documentation: https://github.com/NibblNFT/nibbl-code4arena-june-2022/blob/master/README.md
+Documentation: https://github.com/NibblNFT/nibbl-smartcontracts/blob/master/README.md
 
 Code and Architecture Walkthrough: https://youtu.be/dJFOgo58qVg
 
 Product Beta: http://beta.nibbl.xyz/
+
+# To run tests
+To run tests, run following commands:
+```
+$ npm install
+$ npx hardhat test
+```
 # Contracts in Scope
 | File | LoC | External Calls | Description |
 | --- | --- | --- | --- |
@@ -59,4 +66,4 @@ Product Beta: http://beta.nibbl.xyz/
   - Only successful bidder should be able to withdraw NFT
 
 # Previous Audit
-1. https://github.com/NibblNFT/nibbl-code4arena-june-2022/tree/master/Previous%20Audits
+1. https://github.com/NibblNFT/nibbl-smartcontracts/tree/master/audits
