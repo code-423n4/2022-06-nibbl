@@ -73,6 +73,13 @@ Documentation: https://github.com/NibblNFT/nibbl-code4arena-june-2022/blob/maste
 Code and Architecture Walkthrough: https://youtu.be/dJFOgo58qVg
 
 Product Beta: http://beta.nibbl.xyz/
+
+# To run tests
+To run tests, run following commands:
+```
+$ npm install
+$ npx hardhat test
+```
 # Contracts in Scope
 | File | LoC | External Calls | Description |
 | --- | --- | --- | --- |
