@@ -1,0 +1,790 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-Q2-2022 / ☑nibbl-jun21
+==============================================================
+
+[06/15/2022 10:41 PM] kartoonjoy
+👋 Hello and welcome to the contest channel for the $30K USDC **Nibbl** contest!
+
+📆 Contest opens 06/21/2022 8:00 PM (20:00 UTC) and runs through 06/24/2022 7:59 PM (19:59 UTC) (3 days).
+
+Please give a warm welcome to the Nibbl team, particularly @arnav and @Keshav, who will be available for questions either here in the channel or via DM.
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this contest, consider enabling notifications for this channel. 🐺 ⏰
+
+Contest Page: https://code4rena.com/contests/2022-06-nibbl-contest
+
+{Embed}
+https://code4rena.com/contests/2022-06-nibbl-contest
+Code4rena Nibbl contest
+$30,000 USDC
+21 June 2022—24 June 2022
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/C4-banner-7C19B.png
+
+{Reactions}
+👋🏻 🎉 (2) 
+
+[06/16/2022 7:45 PM] arnav.vohra
+Hi, protectors of the realm👋🏻
+
+{Reactions}
+😃 (6) 👋 (15) 
+
+[06/20/2022 3:04 AM] Wayne#7117
+Hello, @arnav, could you please give a brief description of the project?
+
+
+[06/20/2022 6:42 PM] arnav.vohra
+Yup, we are building an NFT fractionalization protocol which uses bonding curve for trading and a valuation based buyout mechanism. You can actually try out the beta on rinkeby : https://beta.nibbl.xyz/ and get an overview of our architecture here : https://youtu.be/dJFOgo58qVg. I'll wait for the contest to start before sharing more info.
+
+{Reactions}
+thankyou (3) 
+
+[06/21/2022 7:44 PM] pedr02b2
+thank you 🙂
+
+{Reactions}
+😃 
+
+[06/21/2022 8:04 PM] arnav.vohra
+Hi wardens! Me and @Keshav will be looking forward to answer your doubts during the contest!
+
+{Reactions}
+hi5 
+
+[06/21/2022 8:05 PM] Varun_Verma#2771
+thank you! going over the architecture vid now 😃
+
+{Reactions}
+🙏🏻 
+
+[06/21/2022 8:07 PM] arnav.vohra
+awesome! you might want to also checkout the documentation : https://github.com/NibblNFT/nibbl-smartcontracts/blob/master/README.md
+
+{Embed}
+https://github.com/NibblNFT/nibbl-smartcontracts/blob/master/README.md
+nibbl-smartcontracts/README.md at master · NibblNFT/nibbl-smartcont...
+Contribute to NibblNFT/nibbl-smartcontracts development by creating an account on GitHub.
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/nibbl-smartcontracts-72DF1
+
+{Reactions}
+💯 (4) 
+
+[06/21/2022 10:17 PM] masterchief#9196
+Hi @arnav @Keshav was there meant to be a link here in the documentation? 
+https://github.com/NibblNFT/nibbl-smartcontracts/blob/master/README.md
+
+"iii) Buyout mechanisms needed to go back from ERC20 to ERC721 don’t actually work, read more about buyout mechanisms here."
+
+{Embed}
+https://github.com/NibblNFT/nibbl-smartcontracts/blob/master/README.md
+nibbl-smartcontracts/README.md at master · NibblNFT/nibbl-smartcont...
+Contribute to NibblNFT/nibbl-smartcontracts development by creating an account on GitHub.
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/nibbl-smartcontracts-72DF1
+
+
+[06/21/2022 11:36 PM] arnav.vohra
+yup:) https://medium.com/nibbl/exploring-the-buyout-mechanism-in-nft-fractionalization-ab6722b50d19
+
+{Embed}
+https://medium.com/nibbl/exploring-the-buyout-mechanism-in-nft-fractionalization-ab6722b50d19
+Exploring the Buyout Mechanism in NFT Fractionalization
+NFT fractionalization is a fancy way of saying NFT ‘tokenization’, essentially what one means when they say NFT fractionalization is they…
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/1%2ArUmCB3JsiVrKlFaCX9cWcg-BD0C0.jpeg
+
+
+[06/21/2022 11:45 PM] arnav.vohra
+https://twitter.com/NibblNFT/status/1524725315750490112
+https://twitter.com/NibblNFT/status/1532801430658109441
+
+These links would also be helpful
+
+{Embed}
+Nibbl 🧩 (@NibblNFT)
+https://twitter.com/NibblNFT/status/1524725315750490112
+#NFTs once fractionalized shouldn’t stay locked in a contract forever. Our unique buyout rejection game allows fractionalization to work smoothly as a two-way process. 
+
+Here’s how the game works. 👇
+Twitter
+
+{Embed}
+Nibbl 🧩 (@NibblNFT)
+https://twitter.com/NibblNFT/status/1532801430658109441
+Gm fam!
+
+Our second bounty is now live on @layer3xyz - this time based on our innovative buyout rejection game.
+
+Participate here: 
+https://t.co/k5YWMToVHM
+
+But first, learn how our buyout rejection game works, here:
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/OCcxKUG6Zo9EODir-B854F.jpg
+Twitter
+
+
+[06/22/2022 12:07 AM] masterchief#9196
+Thanks!!
+
+{Reactions}
+🔥 
+
+[06/22/2022 11:32 AM] 0xdjango
+Proposal to make memes mandatory in all documentation. The purest form of communication :chefskiss:
+
+{Reactions}
+😀 (4) 👀 (4) 😆 (6) 👆 (3) 
+
+[06/22/2022 12:35 PM] _mundhrakeshav
+Opening an EIP ser. 😋
+
+{Reactions}
+❤️ (5) 
+
+[06/22/2022 5:27 PM] zachobront
+@arnav How is the _mix string in the createBasket function (in the factory) generated?
+
+
+[06/23/2022 1:04 AM] _mundhrakeshav
+User addresses, user id and token address
+
+
+[06/23/2022 6:03 AM] elku.cryptos
+maybe a newbie question.. 
+
+require(_isApprovedOrOwner(msg.sender, 0), "withdraw:not allowed");
+
+can someone tell how does this line work with a tokenId of zero?
+
+
+[06/23/2022 6:28 AM] _mundhrakeshav
+This basically checks that the msg.sender is owner or is approved to transfer the 0th token.
+
+{Reactions}
+👍 
+
+[06/23/2022 6:28 AM] _mundhrakeshav
+Check _isApprovedOrOwner implementation.
+
+
+[06/23/2022 11:03 AM] 0xdjango
+Wrong channel?
+
+
+[06/23/2022 11:11 AM] ak19966
+Yes man... ..
+
+
+[06/23/2022 12:09 PM] 0xsorrynotsorry
+woah. I just checked your project. A delicious one! (Yes, the warden is excited about it :))
+
+{Reactions}
+👀 (2) 
+
+[06/23/2022 1:01 PM] blockdev
+going through documentation. what's reserve ratio?
+
+
+[06/23/2022 2:41 PM] arnav.vohra
+It refers to reserve ratio of the bonding curve - we use bancor bonding curve
+
+
+[06/23/2022 2:45 PM] eccentricexit
+Why does nibbl use create2 instead of create?
+
+
+[06/23/2022 3:07 PM] blockdev
+I meant to say what is it the ratio of?
+
+
+[06/23/2022 4:55 PM] arnav.vohra
+Reserve ratio is a theoretical term and is defined as Liquidity/Valuation. It helps in defining the shape of the bonding curve
+
+
+[06/23/2022 5:01 PM] _mundhrakeshav
+Majorly to improve user onboarding and UX by precomputing it, we plan to build some stuff on this protocol.
+
+
+[06/23/2022 5:02 PM] _mundhrakeshav
+Please have a look at this article
+https://yos.io/2018/11/10/bonding-curves/
+
+{Embed}
+https://yos.io/2018/11/10/bonding-curves/
+Bonding Curves Explained
+“Show me the incentive and I will show you the outcome.” – Charlie Munger The token bonding curve is an emerging cryptoeconomic primitive: protocol based incentive systems that enable coordination of network participants to achieve shared goals. Tokens incentivize players in an economic game towards an outcome that are mutually beneficial. In th...
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/QjySYTQ-943BF.jpg
+
+{Reactions}
+thankyou 
+
+[06/23/2022 6:25 PM] m4rio.eth
+hey guys!
+
+
+[06/23/2022 6:26 PM] m4rio.eth
+a small advice for the future, try to write a more modular and clean code.
+
+{Reactions}
+👍 (2) 
+
+[06/23/2022 6:26 PM] m4rio.eth
+the contracts are very crowded and complicated for the scope of the protocol
+
+
+[06/23/2022 6:27 PM] m4rio.eth
+this discourage the auditors (e.g. c4 ones) to look into
+
+{Reactions}
+👎 (2) 
+
+[06/23/2022 6:27 PM] m4rio.eth
+i personally gave up as it is too crowded and not so well written.
+
+
+[06/23/2022 6:27 PM] m4rio.eth
+If this would have been a private firm, it would have cost a lot of $$$ to audit it
+
+
+[06/23/2022 6:28 PM] m4rio.eth
+good luck! 💪🏻
+
+
+[06/23/2022 8:37 PM] arnav.vohra
+noted ser, we are making our v2 more modular.
+
+
+[06/23/2022 8:38 PM] arnav.vohra
+We did get an audit done on these contracts as well but I agree that the code can be much better. Anything specific you feel we could have improved?
+
+
+[06/23/2022 8:39 PM] m4rio.eth
+let me see who audited it
+
+
+[06/23/2022 8:40 PM] m4rio.eth
+can you share who audited it?
+
+
+[06/23/2022 8:40 PM] m4rio.eth
+woff, not the scope of the contest for now unfortunately 😦
+
+{Reactions}
+👌🏻 
+
+[06/23/2022 8:43 PM] arnav.vohra
+https://github.com/NibblNFT/nibbl-smartcontracts/tree/master/audits
+We did make some changes after this though
+
+{Embed}
+https://github.com/NibblNFT/nibbl-smartcontracts/tree/master/audits
+nibbl-smartcontracts/audits at master · NibblNFT/nibbl-smartcontracts
+Contribute to NibblNFT/nibbl-smartcontracts development by creating an account on GitHub.
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/nibbl-smartcontracts-72DF1
+
+
+[06/23/2022 8:44 PM] m4rio.eth
+ok, awesome! Good luck! 💪🏻
+
+{Reactions}
+🙏🏻 
+
+[06/23/2022 11:19 PM] _mundhrakeshav
+Okay ser.
+
+
+[06/24/2022 1:18 AM] JohnSmith#1623
+I find this project very well documented and code is easy to read. I was able to understand what is what in no time and not feel overwhelmed. I want to thank you for your work and opportunity for us to make it even better.
+
+{Reactions}
+👍 (14) 
+
+[06/24/2022 1:46 AM] ak19966
+can someone point me to know that where the totalSupply() implemented ?
+
+
+[06/24/2022 2:36 AM] izhuer
+ERC20Upgradeable
+
+
+[06/24/2022 4:14 AM] vad37
+Have fun
+
+
+[06/24/2022 4:16 AM] ellahi
+Uh im pretty sure thats not allowed as a certified warden
+
+
+[06/24/2022 4:17 AM] ellahi
+I don't think that's a fair thing to do
+
+
+[06/24/2022 4:17 AM] vad37
+It’s hint
+
+
+[06/24/2022 4:18 AM] vad37
+Yeah except first 2
+
+
+[06/24/2022 4:21 AM] vad37
+Yeah sorry about that
+
+
+[06/24/2022 4:21 AM] vad37
+Forgot about public rule
+
+
+[06/24/2022 4:21 AM] vad37
+I shouldn’t have done this
+
+
+[06/24/2022 4:22 AM] ellahi
+Regardless, hope u feel better!
+
+
+[06/24/2022 7:20 AM] un_for_given
+Hi @arnav, would you please provide us with `git diff` which shows what you have changed in code after the audit?  (Something like this: https://gist.github.com/stas/6611bbd3866e1873b09919f5bf0d3b37)
+
+
+[06/24/2022 7:55 AM] _mundhrakeshav
+https://gist.github.com/mundhrakeshav/192913e4c8503684f72b86b15112418a Here
+
+{Embed}
+https://gist.github.com/mundhrakeshav/192913e4c8503684f72b86b15112418a
+nibblContractsDiff
+nibblContractsDiff. GitHub Gist: instantly share code, notes, and snippets.
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/gist-og-image-17482.png
+
+{Reactions}
+👍 (3) 
+
+[06/24/2022 9:20 AM] un_for_given
+Thanks
+
+
+[06/24/2022 10:37 AM] ak19966
+Thanks... My vs code has some trouble to get me there ...
+
+{Reactions}
+👍 (2) 
+
+[06/24/2022 10:43 AM] _mundhrakeshav
+Thank you very much. We know there's a lot of room for improvement. Really appreciate you helping us out.
+
+
+[06/24/2022 2:45 PM] ak19966
+I am curious to know where this function is called in contract implementation?
+
+
+[06/24/2022 2:45 PM] ak19966
+getTwavObservations()
+
+
+[06/24/2022 2:46 PM] cryptomartian
+some files contains diff. versions . are you using this  to test ur code or either its not good practice to use different version. aka floating pragma issue.
+
+
+[06/24/2022 3:16 PM] masterchief#9196
+3 days is a bit short. any chance we could get an extension on this one? I think this would give all of us a bit more time to discover more improvements to the codebase.
+
+{Reactions}
+👍 (4) 🚀 (2) 
+
+[06/24/2022 3:22 PM] 0xsorrynotsorry
+Hey @Keshav . Can I DM?
+
+
+[06/24/2022 3:24 PM] 0xsorrynotsorry
+I support this by my heart since I can only check any contest only total 2-3 hours due to my occupation. 😆
+
+{Reactions}
+👍 ❤️ 
+
+[06/24/2022 3:25 PM] ak19966
+Man.. I am working at ofz from 9.30 to 6.30, then coming for auditing at 8 p.m
+
+
+[06/24/2022 3:26 PM] ak19966
+I used to read the documentation when i am in travel to and from ofz
+
+
+[06/24/2022 3:26 PM] ak19966
+three is bit short only..
+
+{Reactions}
+😆 (2) 
+
+[06/24/2022 3:29 PM] ak19966
+as far i know.. this code need to undergo maximum changes from calculation point of view
+
+
+[06/24/2022 3:29 PM] ak19966
+else, it could be tough for maintanance
+
+
+[06/24/2022 3:31 PM] ak19966
+but its good.. implementation .. i  like it
+
+{Reactions}
+💯 (2) 
+
+[06/24/2022 3:40 PM] _mundhrakeshav
+Sure please
+
+{Reactions}
+👍 
+
+[06/24/2022 3:47 PM] _mundhrakeshav
+This isn't called in contract. It is used in our external contracts something like periphery contracts.
+
+
+[06/24/2022 3:52 PM] ak19966
+Oh... Ok...
+
+
+[06/24/2022 3:52 PM] ak19966
+Then how come this could be a complete audit??
+
+
+[06/24/2022 3:59 PM] _mundhrakeshav
+There isn't any major logic in those. They don't facilicate any trading or any other operations.
+
+
+[06/24/2022 4:05 PM] ak19966
+I see
+
+
+[06/24/2022 4:06 PM] ak19966
+I seem some discrepancies between code and documents
+
+
+[06/24/2022 4:06 PM] _mundhrakeshav
+Can you please report them?
+
+
+[06/24/2022 4:07 PM] ak19966
+Documents tell onething and codes has some other statements
+
+
+[06/24/2022 4:07 PM] ak19966
+And implementation
+
+
+[06/24/2022 4:07 PM] _mundhrakeshav
+Umm. Can you please share?
+
+
+[06/24/2022 4:07 PM] ak19966
+Sure.. will report them.. i am preparing report now
+
+{Reactions}
+🙏🏻 
+
+[06/24/2022 6:31 PM] road220
+Huge kudos for such great contest 🙂
+
+
+[06/24/2022 6:46 PM] _mundhrakeshav
+Thank you everyone 🚀
+
+{Reactions}
+👍 (5) 🚀 (4) 
+
+[06/24/2022 6:49 PM] fudgydrs
+Can't wait to read your guys security findings. My report is too short to submit
+
+
+[06/24/2022 7:04 PM] ak19966
+Just now submitted my findings
+
+
+[06/24/2022 8:02 PM] C4
+**🚨 CONTEST ALERT**
+
+@🐺wardens The **Nibbl** contest is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: the **Nibbl** team will review the findings over the next couple of days, and then we'll pass them off to the judge. Keep an eye on #📢announcements for regular updates on how the contest is progressing through awarding 🤑🏆, judging 🧑‍⚖️ and reporting 📜. Feel free to ping a gardener if you have questions along the way!
+
+{Reactions}
+👍 (4) 
+
+[06/25/2022 10:35 AM] naps62
+I just realized I submitted my Gas Optimizations along with my QA report in the same submission :/ (copy paste mistake. had everything compiled on hackmd)
+is this gonna be a problem?
+
+
+[06/25/2022 11:18 AM] 100proof
+Just let the judges know
+
+
+[06/25/2022 11:58 AM] 0xsorrynotsorry
+Just visit here bro : https://code4rena.com/help
+
+{Embed}
+https://code4rena.com/help
+Help | Code 423n4
+Need help with something? Contact us here.
+Code4rena - ARCHIVE-Q2-2022 - ☑nibbl-jun21 [986760948926791730].txt_Files/C4-banner-7C19B.png
+
+
+[06/26/2022 12:43 PM] fufanuu
+there's a helpdesk you can send an email too
+
+
+[06/26/2022 12:43 PM] fufanuu
+they will reach out on discord so don't freak out like its a scammer
+
+
+[06/26/2022 12:44 PM] fufanuu
+caught me off guard the first time lol
+
+
+[06/26/2022 12:44 PM] fufanuu
+made help desk guy prove to me he was who he says he is LOL
+
+{Reactions}
+😂 (2) thankyou 
+
+[06/26/2022 12:48 PM] Wayne#7117
+Did anyone find a High level Issue in this contest?
+
+
+[06/26/2022 2:38 PM] cryptphi
+one will find out in about 4 weeks or there about....
+
+
+[06/26/2022 2:55 PM] kartoonjoy
+It was a good laugh though!
+
+
+[06/26/2022 3:46 PM] 0x1f8b
+Yes, there are, if you were certified you could see it.
+
+
+[06/26/2022 3:48 PM] largejerm7
+Do you have to be certified+ to immediately see the results or does certified see it also?
+
+
+[06/26/2022 3:54 PM] 0xsorrynotsorry
+Certified+ can see once the repo is opened to them by C4 team
+
+
+[06/26/2022 5:49 PM] demelew
+C4 team will open the repos before closing the content?
+
+
+[06/26/2022 8:25 PM] izhuer
+Just make sure, only certified (not certified+) cannot access the repo right?
+
+{Reactions}
+👍 (2) 
+
+[06/27/2022 5:01 AM] 0xsorrynotsorry
+Correct
+
+
+[07/11/2022 5:44 PM] itsmetechjay
+🤑 🎉  Awards for **Nibbl**, part one:
+
+$3,657.42 USDC » @xiaoming90 
+$3,019.73 USDC » @hansfriese 
+$2,424.38 USDC » @lucyoa 
+$2,368.15 USDC » @unforgiven 
+$2,339.34 USDC » @P12473 
+$1,914.55 USDC » WatchPug (@Ming | WATCHPUG, @JtP | WATCHPUG)
+$1,328.65 USDC » @Roman 
+$1,312.52 USDC » @cccz 
+$1,098.22 USDC » @Picodes | Angle 
+$1,098.21 USDC » SmartSek (@hake | SmartSek, @Django | Saloon Finance)
+$1,098.21 USDC » @ych18 
+$1,092.51 USDC » @hyh 
+$1,080.98 USDC » PwnedNoMore @izhuer, @ItsNio,@papr1ka2)
+$1,080.98 USDC » @peritoflores 
+$1,077.01 USDC » @IllIllI 
+$258.53 USDC » @zzzitron 
+$234.86 USDC » BowTiedWardens (@BowTiedHeron, @BowTiedPickle, @BowTiedFirefox, @Dravee, @m4rio.eth)
+$230.23 USDC » @kenzo 
+$214.09 USDC » @joestakey 
+$101.35 USDC » @0x1f8b 
+$79.45 USDC » @_Adam 
+$73.10 USDC » 0x29A (@anon, @Rotcivegaf)
+$65.77 USDC » @codexploder 
+$62.31 USDC » @0xkatana 
+$60.69 USDC » @Chom 
+$60.10 USDC » @DefSec 
+$52.53 USDC » @MiloTruck 
+$51.94 USDC » @c3phas 
+$50.13 USDC » @catchup 
+$49.74 USDC » @ellahi 
+$49.70 USDC » @minhquanym 
+$47.59 USDC » @0xNazgul 
+$47.54 USDC » @robee 
+$47.18 USDC » @UnusualTurtle 
+$47.15 USDC » @cryptphi 
+$46.30 USDC » @TomJ 
+$46.17 USDC » 0xf15ers  (@remora0, @twojoy)
+$46.14 USDC » @sashik_eth 
+$46.04 USDC » @pashov 
+$45.90 USDC » @delfin454000 
+$45.84 USDC » @StErMi 
+$45.82 USDC » @Tomio 
+$45.81 USDC » @thinklab 
+$45.76 USDC » @slywaters 
+$45.71 USDC » @ElKu 
+$45.67 USDC » @kenta 
+$45.67 USDC » @saian 
+$45.65 USDC » @JC
+$45.58 USDC » @sach1r0 
+$45.58 USDC » @Noah3o6 
+$45.56 USDC » @simon135 
+$45.54 USDC » @TerrierLover 
+$45.51 USDC » @rfa 
+$45.51 USDC » @Waze 
+$45.51 USDC » @fatherOfBlocks 
+$45.50 USDC » @zuhaibmohd 
+$45.50 USDC » @Randyyy 
+$45.50 USDC » kebabsec (@okkothejawa, @FlameHorizon)
+$45.50 USDC » @Nyamcil 
+$45.50 USDC » @Funen 
+$45.50 USDC » @PENGUN 
+$45.50 USDC » @Limbooo 
+$40.70 USDC » @m_Rassska 
+$37.14 USDC » @Bernd 
+$31.59 USDC » @0xNineDec
+
+{Reactions}
+🔥 (3) 
+
+[07/11/2022 5:45 PM] itsmetechjay
+🤑 🎉  Awards for Nibbl, part two:
+
+$30.89 USDC » @cloudjunky 
+$29.57 USDC » @0xKitsune 
+$28.70 USDC » @shenwilly 
+$28.42 USDC » @sorryNotsorry - OOO until 26 Aug 
+$28.39 USDC » @JohnSmith 
+$28.35 USDC » @Tadashi 
+$28.33 USDC » @100proof 
+$28.29 USDC » @madwookie 
+$28.29 USDC » @JMukesh 
+$28.28 USDC » @Sloth 
+$28.28 USDC » @dipp 
+$28.28 USDC » @naps62 
+$28.28 USDC » @apostle0x01 
+$28.28 USDC » @Wayne 
+$28.28 USDC » @Alex The Entreprenerd 
+$28.28 USDC » @Varun_Verma 
+$28.28 USDC » @0xc0ffEE 
+$28.28 USDC » @Treasure-Seeker 
+$28.28 USDC » @masterchief 
+$28.28 USDC » @0x52 
+$28.28 USDC » Nethermind (@mauricio1802, @dic0de, @dxdv, @Mr Unome, @visgoth, @thomaspanf, @kaliberpoziomka8552, @CalabashSquash, @Parth, @DestroyerSrt)
+$28.28 USDC » @RoiEvenHaim 
+$17.26 USDC » @8olidity 
+$17.26 USDC » @ajtra 
+$17.23 USDC » @ACai 
+$17.23 USDC » @cRat1st0s 
+$17.23 USDC » @chandr 
+$17.22 USDC » @0v3rf10w 
+$17.22 USDC » @ynnad 
+$17.22 USDC » @IgnacioB 
+$17.22 USDC » @Fitraldys 
+
+🏁 Findings summary 
+---------------------------
+Med risk findings: 24 total, 12 unique
+Gas optimization reports: 63
+QA reports: 82
+
+Congratulations all!  💸 💸 💸
+
+{Reactions}
+🎉 (10) hi5 (2) C4Keycap (3) 🐺 🥳 (2) 🙏 (2) 
+
+[07/11/2022 5:52 PM] Noah3o6#2496
+How long does it takes until the rewards are send?Im new and it was my first contest so i am very excited
+
+{Reactions}
+👍 (5) 
+
+[07/11/2022 5:54 PM] izhuer
+lol, also curious about when we can access those findings
+
+{Reactions}
+hi5 
+
+[07/11/2022 5:56 PM] cloudellie
+They usually go out within a week of announcing.
+
+{Reactions}
+✅ (4) 
+
+[07/11/2022 5:58 PM] itsmetechjay
+You'll be able to access them once the audit report is published.  At that point, we make the findings repo public as well.
+
+
+[07/11/2022 7:02 PM] anonnp
+My first prize! Very happy 🚀 with $46 I am already in top400 All Time leaderboard :6158_PepeLaugh:
+
+{Reactions}
+🎉 (18) hi5 (8) 🔥 (2) 🚀 (4) 
+
+[07/11/2022 11:13 PM] Limbooo#3710
+It’s my first too, nice to be in top400 leaderboard. Thank you :C4Keycap: :cyberheart:
+
+{Reactions}
+🎉 (7) hi5 (2) 
+
+[07/12/2022 12:43 AM] sm4rty_
+Hi, I also submitted few gas and qa issues. But I cannot see my name here. Is there something wrong with my reports?
+
+
+[07/12/2022 12:43 AM] 100proof
+Is it possible that you submitted multiple gas/QA reports?
+
+
+[07/12/2022 12:44 AM] sm4rty_
+Yes,
+
+
+[07/12/2022 12:48 AM] 100proof
+This announcement was made 10 days ago. https://discord.com/channels/810916927919620096/810936719003090974/992530607798235216
+
+
+[07/12/2022 12:49 AM] 100proof
+However, the Nibbl contest was longer than 10 days ago.
+
+
+[07/12/2022 12:49 AM] sm4rty_
+Oh, I got it!!
+
+
+[07/12/2022 12:49 AM] 100proof
+Did you submit a Help request to remove the duplicate findings?
+
+
+[07/12/2022 12:50 AM] sm4rty_
+No, but all my recent contest findings, I merged it into one for qa and one for gas.
+
+
+[07/12/2022 5:59 AM] apostle0x01#2755
+its my first bounty as well, 28.28$ lol 😝
+
+{Reactions}
+🎉 (10) hi5 (5) 
+
+[07/17/2022 5:27 PM] Noah3o6#2496
+Are the rewards already sent out?
+
+
+[07/17/2022 6:37 PM] rotcivegaf
+No, yet
+
+
+[07/17/2022 7:42 PM] Noah3o6#2496
+okay thanks
+
+
+==============================================================
+Exported 126 message(s)
+==============================================================
